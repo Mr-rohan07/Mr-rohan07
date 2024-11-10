@@ -24,8 +24,8 @@ Currently, I am learning and building hands-on projects through **Scaler School 
 - Contributing to open-source repositories.
 
 ## 📬 How to Reach Me
-- LinkedIn: [linkedin.com/in/rohan-profile](#)
-- Email: rohan@example.com
+- LinkedIn: [www.linkedin.com/in/rohan-nimje07](#)
+- Email: rohannimje53@.com
 - Website/Portfolio: [www.rohanportfolio.com](#)
 
 ## ⚡ Fun Fact
