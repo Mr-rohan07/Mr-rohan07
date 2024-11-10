@@ -26,7 +26,6 @@ Currently, I am learning and building hands-on projects through **Scaler School 
 ## 📬 How to Reach Me
 - LinkedIn: [www.linkedin.com/in/rohan-nimje07](#)
 - Email: rohannimje53@gmail.com
-- Website/Portfolio: [www.rohanportfolio.com](#)
 
 ## ⚡ Fun Fact
 I love solving coding challenges, building projects, and constantly improving my skills to stay up-to-date with the latest trends in technology.
